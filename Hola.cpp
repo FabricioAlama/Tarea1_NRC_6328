@@ -1,6 +1,7 @@
-#include
+#include <iostream>
 using namespace std;
-int maind(){
-cout <<"Hola Mundo";
+int main(){
+cout <<"Hola Mundo"<<endl;
+cout <<"POO."<<endl;
 return 0;
 }
